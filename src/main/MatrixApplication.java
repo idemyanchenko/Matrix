@@ -7,6 +7,7 @@ public class MatrixApplication {
 
 		Matrix matrix = new Matrix(new double[][]{{1,7,3},{-4,9,4},{0,3,2}});
 		Matrix matrix1 = RandomMatrixReader.readMatrix(3,2);
+		
 //		Matrix matrix = RandomMatrixReader.readMatrix();
 		
 
